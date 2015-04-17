@@ -1,0 +1,10 @@
+{
+    "name": "hee_hee",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "hee_hee.xml",
+    "author": "ArashRazzaghi",
+    "minimum_firmware_version": 42
+}
